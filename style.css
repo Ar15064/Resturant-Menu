@@ -1,0 +1,54 @@
+.HomePage {
+    color: gold;
+    background-color: black;
+}
+h2.Menue {
+    text-align: center;
+    
+    background-image: url(Pictures/Design3.jpeg);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gold;
+    border-style: double;
+    margin: 50;
+    width: 48%;
+    
+    border-color: rgb(213, 203, 141);
+    margin:auto;
+    margin-top: 8ch;
+       
+}
+
+p.center {
+    position: absolute;
+    top: 50%;
+    width: 0%;
+    text-align: center;
+    font-size: 18px;
+  }
+  .leftFood {
+    text-align: center;
+    color: purple;
+    font-size: medium;
+
+    
+    
+
+  }
+  
+  .rightFood {
+    text-align: right;
+    color: purple;
+    font-size: medium;
+  }
+  .meidumfood {
+    color: white; 
+    font-size: .7ch;
+  }
+  .bigfood {
+    color: yellow;
+    font-size:1ch ;
+   }
+
+
+   
